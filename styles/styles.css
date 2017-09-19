@@ -1,0 +1,12 @@
+h1 {
+	color: red;
+	text-align: center;
+	font-size: 60px; /* px means 'pixels': the base font size is now 10 pixels high  */
+    font-family: 'Freckle Face', cursive;
+}
+html {
+  background-color: #000000;
+}
+img{
+	allign: center;
+}
